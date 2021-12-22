@@ -1,0 +1,45 @@
+/* @theme cs */
+
+@import 'uncover';
+@import url(https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap);
+ :root {
+    --color-foreground: #36264b;
+}
+
+* {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+section.intro h1 {
+    color: #0feda1;
+}
+
+section.left * {
+    text-align: left;
+    font-size: 30px;
+}
+
+section.intro img {
+    height: 12vh;
+    border-radius: 50%;
+    margin-right: 1vh;
+}
+
+section.intro p {
+    color: #0feda1;
+    display: flex;
+    align-self: center;
+    align-items: center;
+}
+
+section.custom-img-10 img {
+    height: 10vh;
+}
+
+section.custom-img-20 img {
+    height: 20vh;
+}
+
+section.custom-img-30 img {
+    height: 30vh;
+}

@@ -1,0 +1,6 @@
+{
+    "markdown.marp.themes": [
+        "./themes/cs.css",
+        "https://raw.githubusercontent.com/microblink/marpit-themes/v1.1.0/styles/output/microblink.css"
+    ]
+}
