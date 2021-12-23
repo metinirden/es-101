@@ -7,7 +7,7 @@
 }
 
 * {
-    font-family: 'Fira Sans', sans-serif;
+    /* font-family: 'Fira Sans', sans-serif; */
 }
 
 section.intro h1 {
@@ -16,6 +16,10 @@ section.intro h1 {
 
 section.left * {
     text-align: left;
+    font-size: 30px;
+}
+
+section table {
     font-size: 30px;
 }
 
